@@ -1,0 +1,34 @@
+{
+  "name": "dev-util",
+  "version": "0.0.1",
+  "description": "Utilities for developers and testers",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvendrame/dev-util.git"
+  },
+  "keywords": [
+    "utils",
+    "utilities",
+    "tools",
+    "developer",
+    "dev",
+    "docs",
+    "cfp",
+    "cnpj",
+    "credit-card",
+    "zipcode"
+  ],
+  "author": "Luis Fernando Vendrame <lvendrame@gmail.com> (http://www.lvendrame.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvendrame/dev-util/issues"
+  },
+  "homepage": "https://github.com/lvendrame/dev-util#readme"
+}
